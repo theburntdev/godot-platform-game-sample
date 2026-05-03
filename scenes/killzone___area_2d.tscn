@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://kiejaomj787t"]
+
+[ext_resource type="Script" uid="uid://cbcuavbejwh4d" path="res://scripts/KillzoneArea2d.cs" id="1_vjxxi"]
+
+[node name="Killzone - Area2D" type="Area2D" unique_id=506487071 node_paths=PackedStringArray("_timer")]
+collision_mask = 2
+script = ExtResource("1_vjxxi")
+_timer = NodePath("Timer")
+
+[node name="Timer" type="Timer" parent="." unique_id=749819372]
+one_shot = true

@@ -1,0 +1,25 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/PlatformGame/CopilotIndices/18.5.39187.10602/CodeChunks.db
+.vs/PlatformGame/CopilotIndices/18.5.39187.10602/SemanticSymbols.db
+.vs/PlatformGame/DesignTimeBuild/.dtbcache.v2
+.vs/PlatformGame/FileContentIndex/03a3c512-7242-41fe-957c-241c458e43cb.vsidx
+.vs/PlatformGame/FileContentIndex/5e1ab65e-cdb9-46bf-a8ec-4f6ff91bf957.vsidx
+.vs/PlatformGame/FileContentIndex/786b9613-3a1f-4c45-b386-388ea7ea8b43.vsidx
+.vs/PlatformGame/FileContentIndex/833109d4-c427-4f59-a355-3cc2126746f9.vsidx
+.vs/PlatformGame/v18/.futdcache.v2
+.vs/PlatformGame/v18/.suo
+.vs/PlatformGame/v18/DocumentLayout.backup.json
+.vs/PlatformGame/v18/DocumentLayout.json
+.vs/ProjectEvaluation/platformgame.metadata.v10.bin
+.vs/ProjectEvaluation/platformgame.projects.v10.bin
+.vs/ProjectEvaluation/platformgame.strings.v10.bin
+.vs/platform-game.slnx/FileContentIndex/502778c2-e0ac-46d4-8dec-270b492002d1.vsidx
+.vs/platform-game.slnx/FileContentIndex/a7d5b59c-a123-4759-8a29-3282a57a74aa.vsidx
+.vs/platform-game.slnx/FileContentIndex/e862c767-5309-40e1-a472-c5894f829977.vsidx
+.vs/platform-game.slnx/FileContentIndex/f45761ad-ffe9-4e60-b880-8e8e06f26e7b.vsidx
+.vs/platform-game.slnx/v18/.wsuo
+.vs/platform-game.slnx/v18/DocumentLayout.json
